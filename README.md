@@ -27,29 +27,29 @@ This project showcases full-stack machine learning deployment: model loading, pr
 
 📁 Project Structure
 AI-Image-Recognition-Portal/
-├── app.py                # Flask backend
-├── vgg19.h5              # Pretrained VGG19 model file
-├── templates/
-│   └── index.html        # Frontend UI
-├── uploads/              # Temporary image storage
-└── requirements.txt      # Dependencies list
+- ├── app.py                # Flask backend
+- ├── vgg19.h5              # Pretrained VGG19 model file
+- ├── templates/
+- │   └── index.html        # Frontend UI
+- ├── uploads/              # Temporary image storage
+- └── requirements.txt      # Dependencies list
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/AI-Image-Recognition-Portal.git
-cd AI-Image-Recognition-Portal
+- git clone https://github.com/yourusername/AI-Image-Recognition-Portal.git
+- cd AI-Image-Recognition-Portal
 
 2️⃣ Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3️⃣ Add the pretrained model
-Place vgg19.h5 in the project root directory.
+- Place vgg19.h5 in the project root directory.
 
 4️⃣ Run the Flask app
-python app.py
+- python app.py
 
 5️⃣ Open in browser
-Visit:http://127.0.0.1:5000
+- Visit:http://127.0.0.1:5000
 
 
 
