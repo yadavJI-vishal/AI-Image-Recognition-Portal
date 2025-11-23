@@ -26,6 +26,7 @@ This project showcases full-stack machine learning deployment: model loading, pr
 4. Instant feedback — no page reloads required.
 
 **📁 Project Structure**
+
 AI-Image-Recognition-Portal/
 - ├── app.py                # Flask backend
 - ├── vgg19.h5              # Pretrained VGG19 model file
@@ -35,6 +36,7 @@ AI-Image-Recognition-Portal/
 - └── requirements.txt      # Dependencies list
 
 **⚙️ Installation & Setup**
+
 **1️⃣ Clone the repository**
 - git clone https://github.com/yourusername/AI-Image-Recognition-Portal.git
 - cd AI-Image-Recognition-Portal
@@ -52,6 +54,7 @@ AI-Image-Recognition-Portal/
 - Visit:http://127.0.0.1:5000
 
 **🧩 How It Works**
+
 🔹 Image Preprocessing
 - Resizes uploaded images to 224×224
 - Converts to NumPy arrays
