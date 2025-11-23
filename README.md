@@ -6,6 +6,7 @@ This project showcases full-stack machine learning deployment: model loading, pr
 
 
 **🚀 Features**
+
 **🧠 Deep Learning**
 
 - Uses VGG19, a high-performance CNN architecture trained on ImageNet (1,000 classes).
