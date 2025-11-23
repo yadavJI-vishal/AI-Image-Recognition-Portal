@@ -4,6 +4,7 @@ A sleek and intelligent AI-powered image classification web application built us
 Upload any image → instantly get predictions powered by state-of-the-art deep learning.
 This project showcases full-stack machine learning deployment: model loading, preprocessing, inference, and user interaction — all inside a clean, production-ready UI.
 
+
 **🚀 Features**
 **🧠 Deep Learning**
 
@@ -14,9 +15,11 @@ This project showcases full-stack machine learning deployment: model loading, pr
 - Clean, user-friendly Flask interface.
 - Upload an image and receive the predicted class instantly.
 
+
 **⚡ Fast & Deployable**
 - Lightweight backend suitable for running on local machines, Docker, Render, Heroku, AWS, etc.
 - Minimal dependencies — easy to set up and extend.
+
 
 **🖼️ Demo Workflow**
 1. Open the web app
@@ -24,6 +27,7 @@ This project showcases full-stack machine learning deployment: model loading, pr
 3. The app returns a prediction like:
    "golden_retriever"
 4. Instant feedback — no page reloads required.
+
 
 **📁 Project Structure**
 
@@ -34,6 +38,7 @@ AI-Image-Recognition-Portal/
 - │   └── index.html        # Frontend UI
 - ├── uploads/              # Temporary image storage
 - └── requirements.txt      # Dependencies list
+
 
 **⚙️ Installation & Setup**
 
@@ -53,6 +58,7 @@ AI-Image-Recognition-Portal/
 **5️⃣ Open in browser**
 - Visit:http://127.0.0.1:5000
 
+
 **🧩 How It Works**
 
 🔹 Image Preprocessing
@@ -68,10 +74,12 @@ AI-Image-Recognition-Portal/
 **🔹 Output**
 - Returns the predicted ImageNet class label.
 
+
 **🛡️ Security Notes**
 - Safeguarded filename handling using secure_filename()
 - Robust request handling for GET/POST
 - Easily extendable for authentication, rate limiting, or file validation
+
 
 **🚀 Future Enhancements**
 - Multi-class predictions with confidence scores
@@ -80,6 +88,7 @@ AI-Image-Recognition-Portal/
 - REST API endpoints
 - Real-time camera capture input
 - Cloud deployment templates
+
 
 **👨‍💻 Author**
 - Email: vy5068@gmail.com
